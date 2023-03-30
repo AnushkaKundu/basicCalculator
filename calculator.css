@@ -1,6 +1,9 @@
 :root {
   box-sizing: border-box;
 }
+body {
+  background-color: black;
+}
 .row {
     align-items: center;
     justify-items: center;
