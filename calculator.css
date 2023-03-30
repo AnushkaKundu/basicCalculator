@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 :root {
   box-sizing: border-box;
 }
@@ -37,6 +38,7 @@ body {
     padding-bottom: 1%;
     width: min(calc(100%-20px), (960px));
     border-radius: 1rem;
+    font-family: 'Righteous', sans-serif;
   }
   
   .output .previous-operand {
